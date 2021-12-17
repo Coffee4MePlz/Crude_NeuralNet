@@ -86,7 +86,7 @@ if __name__ == "__main__":
     1st layer: do nothing and apply step function as your non-linear function
     2nd layer: take y1 - y2 and apply step function
     '''
-    #''' code: 
+    ''' code: 
     # Declaring values for b and net
 
     b = np.zeros(2)
@@ -100,6 +100,6 @@ if __name__ == "__main__":
 
     #plotting
     Plot_2Dnetwork2(nlf) # plotting all possible values
-    #'''
+    '''
    
    
